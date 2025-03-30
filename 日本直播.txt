@@ -1,3 +1,7 @@
+奥视1,http://125.227.210.55:8201/VideoInput/play.ts
+奥视2,http://125.227.210.55:8203/VideoInput/play.ts
+奥视3,http://125.227.210.55:8205/VideoInput/play.ts
+奥视驚艷,http://125.227.210.55:8156/VideoInput/play.ts
 麻豆传媒,http://lunar.pm:8080/Dixon/FYe68kq2bw7e/122928
 IBZITV,http://lunar.pm:8080/Dixon/FYe68kq2bw7e/122924
 CMN4K,http://lunar.pm:8080/Dixon/FYe68kq2bw7e/122916
