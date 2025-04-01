@@ -55,7 +55,9 @@
         {
             "name": "火星直播",
             "type": 0,
-            "url": "http://xg.52sw.top/play/hxds/",
+            "url": "http://dago.atwebpages.com/zx/0/1743497390.txt",
+
+    
             "ua": "okhttp/3.15",
             "epg": "http://iptv.52sw.top:668/epg/?ch={name}&date={date}",
             "header": {
