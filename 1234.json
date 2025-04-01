@@ -53,7 +53,7 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
-            "name": "火星直播",
+            "name": "火性直播",
             "type": 0,
             "url": "http://dago.atwebpages.com/zx/0/1743497390.txt",
 
