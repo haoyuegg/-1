@@ -77,7 +77,7 @@
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
         },
         {
-            "name": "欧华(ouhua TV)",
+            "name": "欧华(zlvieTV)",
             "type": 0,
             "url": "https://od.lk/s/NjFfOTEwNDQ3MTlf/zlive.txt",
             "ua": "okhttp/3.15",
